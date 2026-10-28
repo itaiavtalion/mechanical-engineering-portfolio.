@@ -48,7 +48,7 @@
 * **Iterative Problem Solving:** Overcame joint binding by engineering custom compressible snap-fit pins, chamfering internal routing paths to minimize tendon friction, and offsetting thumb geometry for true opposition grasp.
 
 📄 **[View Project Document (PDF)](./projects/3D-Printed-prosthetic_hand.pdf)**  
-🎥 **[Watch Prototype Video Demonstration](https://drive.google.com/file/d/1cMehkLD05mA7CgPNLcuOTKP0tDIBN7R5/view?usp=drivesdk)**
+🎥 **[Watch Prototype Video Demonstration](https://drive.google.com/file/d/1cMehkLD05mA7CgPNLcuOTKP0tDlBN7R5/view)**
 
 ---
 
